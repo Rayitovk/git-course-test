@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body {
+	background-image: url("https://depor.com/resizer/49Kc37RbpWXsArNxMi1Cf4gS-Uk=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/POCMWX6XNZEO3OONJ4JGYEQXNQ.jpg");
+	
+}
+
+h1 {
+	text-align: center;
+	color: navy;
+	margin-left: 20px;
+}
+p {
+  text-align: center;
+  color: red;
+}
+#para1 {
+  text-align: left;
+  color: #00ff00;
+}
+.parafoclase {
+  text-align: center;
+  color: yellow;
+}
